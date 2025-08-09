@@ -49,7 +49,7 @@ const DEFAULT_STEPS = [
       { id: "s4t2", label: "Get EIN from IRS", done: false },
       { id: "s4t3", label: "Apply for WI Food Processing Plant License (DATCP)", done: false },
       { id: "s4t4", label: "Take required food safety/processing training", done: false },
-      { id: "s4t5", label: "Apply for Transient Merchant/Direct Seller License in each city", done: false },
+      { id: "s4t5", label: "Apply for Transient Merchant/Direct Seller License", done: false },
       { id: "s4t6", label: "Get product liability insurance", done: false }
     ]
   },
